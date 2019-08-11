@@ -1,9 +1,9 @@
 <html>
  <head>
-  <body>  <title>
+  <body>  
    All about Unicorns 
    <font size=200>
-    </title>
+  
    </body>
    
    </head>
