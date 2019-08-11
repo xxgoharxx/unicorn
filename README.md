@@ -1,5 +1,8 @@
 <html>
-<font size=200> <head>  All about Unicorns </head>
+ <head>
+   <title>  All about Unicorns  </title>
+   <font size=200>
+   </head>
   
   
   
